@@ -35,7 +35,7 @@ def bubble_sort(arr):
     return arr
 
 
-print('Bubble sort: ', selection_sort([1, 5, 8, 4, 2, 9, 6, 0, 3, 7]))
+print('Bubble sort: ', bubble_sort([1, 5, 8, 4, 2, 9, 6, 0, 3, 7]))
 
 
 # STRETCH: implement the Count Sort function below
