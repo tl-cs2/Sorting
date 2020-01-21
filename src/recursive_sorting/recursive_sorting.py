@@ -29,7 +29,6 @@ print('Merge function: ', merge([1, 3, 5, 7, 9], [2, 4, 6, 8]))
 
 
 def merge_sort(arr):
-
     # While your data set contains more than one item, split it in half
     if len(arr) > 1:
         mid = len(arr) // 2
